@@ -1,0 +1,4 @@
+tifffile
+streamlit
+numpy
+opencv-python
